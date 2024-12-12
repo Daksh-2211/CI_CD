@@ -20,5 +20,5 @@ artifacts:
   files:
     - html_app.zip
     - index.html
-    - scripts/start_server.sh
+    - file/start_server.sh
   discard-paths: yes
